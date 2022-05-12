@@ -1,0 +1,17 @@
+        *O que aprendemos?*
+
+-Conhecemos o tipo callable do PHP
+
+-Vimos diversas formas de representar uma função
+
+-Entendemos que funções podem ser passadas por parâmetro
+
+-Aprendemos que funções podem retornar outras funções
+
+-Conhecemos a class Closure do PHP
+
+-Conhecemos o conceito de closures em programação funcional
+
+-Vimos a diferença entre uma abordagem imperativa e funcional
+
+-Entendemos que devemos sempre conhecer as melhores ferramentas para cada tarefa
